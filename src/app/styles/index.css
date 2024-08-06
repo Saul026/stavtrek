@@ -1,0 +1,6 @@
+.App {
+    padding-top: 64px;
+    min-width: 100vw;
+    min-height: 100vh;
+    display: flex;
+}

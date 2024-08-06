@@ -1,0 +1,14 @@
+.post {
+    height: max-content;
+    display: flex;
+    flex-direction: column;
+}
+
+.post > div {
+    display: flex;
+    flex-direction: column;
+}
+
+.post h2 {
+    font-weight: 600;
+}

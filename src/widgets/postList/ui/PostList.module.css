@@ -1,0 +1,9 @@
+.post-list {
+    display: flex;
+    gap: 20px;
+}
+@media (width < 650px) {
+    .post-list {
+        flex-direction: column;
+    }
+}
