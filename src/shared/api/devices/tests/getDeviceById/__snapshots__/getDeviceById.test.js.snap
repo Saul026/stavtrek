@@ -1,0 +1,26 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`getDeviceById Корректное значение 1`] = `
+{
+  "data": [
+    {
+      "attributes": {},
+      "calendarId": 0,
+      "category": null,
+      "contact": null,
+      "disabled": false,
+      "expirationTime": null,
+      "groupId": 0,
+      "id": 2,
+      "lastUpdate": "2023-11-27T07:47:46.000+00:00",
+      "model": null,
+      "name": "Тест",
+      "phone": null,
+      "positionId": 131758,
+      "protocol": null,
+      "status": "offline",
+      "uniqueId": "550393",
+    },
+  ],
+}
+`;

@@ -21,4 +21,7 @@ export interface Device {
     contact: string | null;
     category: string | null;
     attributes: Attributes;
+    calendarId?: number
+    protocol?: string | null
+    expirationTime?: string | null
 }

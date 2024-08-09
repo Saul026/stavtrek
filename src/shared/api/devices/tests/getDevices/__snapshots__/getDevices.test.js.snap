@@ -1,0 +1,51 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`getData Корректное значение 1`] = `
+{
+  "data": [
+    {
+      "attributes": {
+        "decoder.timezone": "",
+        "deviceImage": "device.webp",
+        "deviceInactivityStart": 15,
+        "processing.copyAttributes": "",
+        "speedLimit": 53.9956803455724,
+        "web.reportColor": "красный",
+      },
+      "calendarId": 0,
+      "category": null,
+      "contact": null,
+      "disabled": false,
+      "expirationTime": null,
+      "groupId": 0,
+      "id": 9,
+      "lastUpdate": "2024-08-08T17:19:49.286+00:00",
+      "model": null,
+      "name": "Монтажник тест ",
+      "phone": null,
+      "positionId": 19562950,
+      "protocol": null,
+      "status": "online",
+      "uniqueId": "135079",
+    },
+    {
+      "attributes": {},
+      "calendarId": 0,
+      "category": null,
+      "contact": null,
+      "disabled": false,
+      "expirationTime": null,
+      "groupId": 0,
+      "id": 2,
+      "lastUpdate": "2023-11-27T07:47:46.000+00:00",
+      "model": null,
+      "name": "Тест",
+      "phone": null,
+      "positionId": 131758,
+      "protocol": null,
+      "status": "offline",
+      "uniqueId": "550393",
+    },
+  ],
+}
+`;
